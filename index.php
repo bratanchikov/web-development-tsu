@@ -27,6 +27,7 @@
 		<li><a href="/github/AndreevVM">Виталий</a></li>
 		<li><a href="/github/marinaveretennikova/index.html">Марина</a></li>
 		<li><a href="/github/elenakolentsova">Елена</a></li>
+		<li><a href="/github/sergeybratanchikov/index.html">Сергей Братанчиков</a></li>
 
 	</ul>
 	<ul>
